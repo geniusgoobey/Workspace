@@ -1,0 +1,6 @@
+This is a file.
+You can read files using for loops.
+The returned item is a string containing
+the line we are at in the loop.  We can
+then process the file however we want.
+Pretty simple, eh?

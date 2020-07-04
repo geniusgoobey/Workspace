@@ -1,0 +1,6 @@
+value = int (input ("Enter a Starting Value: "))
+print ("exp", "\t", "res", end="\t \n")
+print ("1", "\t", value, end="\t \n")
+print ("2", "\t", pow(value,2), end="\t \n")
+print ("3", "\t", pow(value,3), end="\t \n")
+print ("4", "\t", pow(value,4), end="\t \n")

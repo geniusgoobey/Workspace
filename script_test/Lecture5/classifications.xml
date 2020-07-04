@@ -1,0 +1,28 @@
+<classifications>
+    <animal>
+        <common_name>
+            Gray Wolf
+        </common_name>
+        <kingdom>
+            Animalia
+        </kingdom>
+        <phylum>
+            Chordata
+        </phylum>
+        <class>
+            Mammalia
+        </class>
+        <order>
+            Carnivora
+        </order>
+        <family>
+            Canidae
+        </family>
+        <genus>
+            Canis
+        </genus>
+        <species>
+            lupus
+        </species>
+    </animal>
+</classifications>

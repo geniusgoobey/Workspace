@@ -1,0 +1,26 @@
+{
+    "0": {
+     "text": "0 is the coldest possible temperature old the Kelvin scale.",
+     "number": 0,
+     "found": true,
+     "type": "trivia"
+    },
+    "1": {
+     "text": "1 is the number of moons orbiting Earth.",
+     "number": 1,
+     "found": true,
+     "type": "trivia"
+    },
+    "42": {
+     "text": "42 is the number of US gallons in a barrel of oil.",
+     "number": 42,
+     "found": true,
+     "type": "trivia"
+    },
+    "1337": {
+     "text": "1337 is the number that spells \"leet\" in leetspeak.",
+     "number": 1337,
+     "found": true,
+     "type": "trivia"
+    }
+   }

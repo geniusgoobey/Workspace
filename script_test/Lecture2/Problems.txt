@@ -1,0 +1,8 @@
+For these exercises, try to incorporate what you learned in the lesson. Remember, these are just for you to practice. You do not need to turn these in.
+
+Write a program that plays paper, rock, scissors...and always wins.
+Write a program that generates the next Triangle Number up to the Nth number.
+(Challenge) Write a program that generates N number of primes.
+If you didn't do it the first time, use a generator to generate the primes.
+Write a guessing game that plays against you!
+Write a program that reads in a file that contains a list of names and sees if a name is in that list.
